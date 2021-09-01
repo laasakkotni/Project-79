@@ -12,7 +12,7 @@ menu_list_array.sort();
 
 function add_item(){
 var htmldata;
-var imgtags="<img src='pizza.jpg'>"
+var imgtags="<img src='pizzaImg.png'>"
 var item=document.getElementById("add_item").value;
         // use the sort function as - menu_list_array.sort();
         menu_list_array.sort();
